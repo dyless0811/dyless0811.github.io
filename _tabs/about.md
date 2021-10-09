@@ -5,4 +5,11 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+김동율
+dyless0811
+
+웹 개발자가 되기위해 공부 중입니다.
+
+- JS
+- Java
+- Oracle
